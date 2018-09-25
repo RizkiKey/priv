@@ -1,1 +1,2 @@
-# private
+# pribadi
+free script deface
